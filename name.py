@@ -40,4 +40,4 @@ word = input("Enter word:")
 # Reverse word with slicing
 reversed_word = word[::-1]
 # Display word in reverse
-print(f"Reversed word is: {}")
+print(f"Reversed word is: {reversed_word}")
