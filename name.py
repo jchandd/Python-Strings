@@ -25,7 +25,7 @@ vowels = "aeiouAEIOU"
 count = 0
 # Read over the characters in string
 for char in user_input:
-    if char in vowels
+    if char in vowels:
 # If character is vowel, add the counter    
     count += 1
 
